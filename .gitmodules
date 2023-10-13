@@ -1,3 +1,6 @@
 [submodule "IF_ELSE_Linguagem_C"]
 	path = IF_ELSE_Linguagem_C
 	url = https://github.com/Kauan-Almeida/IF_ELSE_Linguagem_C.git
+[submodule "While_do_while_Linguegem_C"]
+	path = While_do_while_Linguegem_C
+	url = https://github.com/Kauan-Almeida/While_do_while_Linguegem_C.git
