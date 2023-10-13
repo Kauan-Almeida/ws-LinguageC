@@ -4,3 +4,6 @@
 [submodule "While_do_while_Linguegem_C"]
 	path = While_do_while_Linguegem_C
 	url = https://github.com/Kauan-Almeida/While_do_while_Linguegem_C.git
+[submodule "For_Linguagem_C"]
+	path = For_Linguagem_C
+	url = https://github.com/Kauan-Almeida/For_Linguagem_C.git
